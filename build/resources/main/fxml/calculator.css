@@ -1,0 +1,18 @@
+
+.root{
+
+    -fx-font-size: 16pt ;
+    -fx-font-weight: bold;
+    -fx-font-family: "Abadi";
+    -fx-base: rgb(65,52,20);
+    -fx-background: rgb(65,52,20);
+
+}
+.button{
+
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-font-size: 16pt;
+
+
+}
